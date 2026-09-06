@@ -62,3 +62,17 @@ Artifact 版も使い続けるなら、原本を編集したあと Artifact 側�
 特定のお客さま向けの資料なので `noindex, nofollow, noarchive` を入れてある。
 検索には出ないが、**URLを知っていれば誰でも見られる**（GitHub Pages に閲覧制限はかけられない）。
 商談が終わったらリポジトリごと消してよい。
+
+## 2026-09-06 design.html に aandkcorp.com の案を追加
+
+**同じ株式会社 A and K さま宛だが、保育園・放課後等デイとは別のご相談**なので、
+独立した節（02）にして「別のご相談」と明記した。混ぜると、どのサイトの話を
+しているのか分からなくなる。
+
+- 目次 3→4、確認事項 2点→3点（コーポレートサイトの案と、サーバーの預かり可否）
+- 表紙の一文を「3つのサイトを、それぞれどの案で進めるか」に
+- キャプチャは `img/preview-aandk-{a,b}.jpg`（aandk-proposal から複製）
+- 実物は https://easywebcraft.github.io/aandk-design/{a,b}/ を直接指す
+
+**キャプチャは aandk-design 側を直すたびに撮り直しが要る**（2箇所にコピーが
+あるため）。aandk-proposal/img/preview-{a,b}.jpg を作り直したら、ここへも複製する。
